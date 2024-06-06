@@ -26,9 +26,14 @@
 # Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/21CHANCHAL21/Leetcode/tree/master/0162-find-peak-element) |
 | [0876-hand-of-straights](https://github.com/21CHANCHAL21/Leetcode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/21CHANCHAL21/Leetcode/tree/master/1044-find-common-characters) |
 # Sorting
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/21CHANCHAL21/Leetcode/tree/master/0876-hand-of-straights) |
+# Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/21CHANCHAL21/Leetcode/tree/master/0162-find-peak-element) |
