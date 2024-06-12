@@ -4,6 +4,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/21CHANCHAL21/Leetcode/tree/master/0075-sort-colors) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/21CHANCHAL21/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -32,6 +33,7 @@
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/21CHANCHAL21/Leetcode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/21CHANCHAL21/Leetcode/tree/master/0162-find-peak-element) |
 | [0523-continuous-subarray-sum](https://github.com/21CHANCHAL21/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/21CHANCHAL21/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -44,6 +46,7 @@
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/21CHANCHAL21/Leetcode/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/21CHANCHAL21/Leetcode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/21CHANCHAL21/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/21CHANCHAL21/Leetcode/tree/master/1217-relative-sort-array) |
