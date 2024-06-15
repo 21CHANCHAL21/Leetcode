@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/21CHANCHAL21/Leetcode/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/21CHANCHAL21/Leetcode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/21CHANCHAL21/Leetcode/tree/master/0876-hand-of-straights) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/21CHANCHAL21/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/21CHANCHAL21/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/21CHANCHAL21/Leetcode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/21CHANCHAL21/Leetcode/tree/master/0162-find-peak-element) |
+| [0502-ipo](https://github.com/21CHANCHAL21/Leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/21CHANCHAL21/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/21CHANCHAL21/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/21CHANCHAL21/Leetcode/tree/master/0648-replace-words) |
@@ -49,6 +51,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/21CHANCHAL21/Leetcode/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/21CHANCHAL21/Leetcode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/21CHANCHAL21/Leetcode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/21CHANCHAL21/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/21CHANCHAL21/Leetcode/tree/master/1217-relative-sort-array) |
@@ -76,3 +79,7 @@
 | ------- |
 | [1137-height-checker](https://github.com/21CHANCHAL21/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/21CHANCHAL21/Leetcode/tree/master/1217-relative-sort-array) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/21CHANCHAL21/Leetcode/tree/master/0502-ipo) |
