@@ -16,6 +16,7 @@
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/21CHANCHAL21/Leetcode/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/21CHANCHAL21/Leetcode/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/21CHANCHAL21/Leetcode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/21CHANCHAL21/Leetcode/tree/master/0876-hand-of-straights) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/21CHANCHAL21/Leetcode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/21CHANCHAL21/Leetcode/tree/master/0162-find-peak-element) |
+| [0330-patching-array](https://github.com/21CHANCHAL21/Leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/21CHANCHAL21/Leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/21CHANCHAL21/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/21CHANCHAL21/Leetcode/tree/master/0560-subarray-sum-equals-k) |
