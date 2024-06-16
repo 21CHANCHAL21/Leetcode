@@ -37,6 +37,7 @@
 # Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/21CHANCHAL21/Leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/21CHANCHAL21/Leetcode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/21CHANCHAL21/Leetcode/tree/master/0162-find-peak-element) |
 | [0330-patching-array](https://github.com/21CHANCHAL21/Leetcode/tree/master/0330-patching-array) |
@@ -64,6 +65,7 @@
 # Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/21CHANCHAL21/Leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/21CHANCHAL21/Leetcode/tree/master/0162-find-peak-element) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/21CHANCHAL21/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 # Trie
