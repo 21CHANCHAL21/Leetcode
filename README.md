@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/21CHANCHAL21/Leetcode/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/21CHANCHAL21/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/21CHANCHAL21/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/21CHANCHAL21/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -67,6 +68,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/21CHANCHAL21/Leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/21CHANCHAL21/Leetcode/tree/master/0162-find-peak-element) |
+| [0633-sum-of-square-numbers](https://github.com/21CHANCHAL21/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/21CHANCHAL21/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 # Trie
 |  |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/21CHANCHAL21/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/21CHANCHAL21/Leetcode/tree/master/0633-sum-of-square-numbers) |
 # Counting Sort
 |  |
 | ------- |
