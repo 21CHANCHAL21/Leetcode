@@ -55,6 +55,7 @@
 | [1137-height-checker](https://github.com/21CHANCHAL21/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/21CHANCHAL21/Leetcode/tree/master/1217-relative-sort-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/21CHANCHAL21/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/21CHANCHAL21/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/21CHANCHAL21/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
@@ -75,6 +76,7 @@
 | [0633-sum-of-square-numbers](https://github.com/21CHANCHAL21/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/21CHANCHAL21/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/21CHANCHAL21/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/21CHANCHAL21/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Trie
 |  |
 | ------- |
