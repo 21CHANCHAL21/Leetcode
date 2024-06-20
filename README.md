@@ -29,6 +29,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/21CHANCHAL21/Leetcode/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/21CHANCHAL21/Leetcode/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/21CHANCHAL21/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/21CHANCHAL21/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -44,6 +45,7 @@
 | [0075-sort-colors](https://github.com/21CHANCHAL21/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/21CHANCHAL21/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/21CHANCHAL21/Leetcode/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/21CHANCHAL21/Leetcode/tree/master/0217-contains-duplicate) |
 | [0330-patching-array](https://github.com/21CHANCHAL21/Leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/21CHANCHAL21/Leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/21CHANCHAL21/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/21CHANCHAL21/Leetcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/21CHANCHAL21/Leetcode/tree/master/0217-contains-duplicate) |
 | [0502-ipo](https://github.com/21CHANCHAL21/Leetcode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/21CHANCHAL21/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/21CHANCHAL21/Leetcode/tree/master/0876-hand-of-straights) |
