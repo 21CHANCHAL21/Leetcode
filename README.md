@@ -56,6 +56,7 @@
 | [1217-relative-sort-array](https://github.com/21CHANCHAL21/Leetcode/tree/master/1217-relative-sort-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/21CHANCHAL21/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/21CHANCHAL21/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/21CHANCHAL21/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/21CHANCHAL21/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
@@ -67,6 +68,7 @@
 | [1137-height-checker](https://github.com/21CHANCHAL21/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/21CHANCHAL21/Leetcode/tree/master/1217-relative-sort-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/21CHANCHAL21/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1675-magnetic-force-between-two-balls](https://github.com/21CHANCHAL21/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/21CHANCHAL21/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Binary Search
 |  |
@@ -77,6 +79,7 @@
 | [0853-most-profit-assigning-work](https://github.com/21CHANCHAL21/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/21CHANCHAL21/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/21CHANCHAL21/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/21CHANCHAL21/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Trie
 |  |
 | ------- |
