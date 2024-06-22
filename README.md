@@ -44,6 +44,7 @@
 | [0035-search-insert-position](https://github.com/21CHANCHAL21/Leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/21CHANCHAL21/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/21CHANCHAL21/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/21CHANCHAL21/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/21CHANCHAL21/Leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/21CHANCHAL21/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/21CHANCHAL21/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/21CHANCHAL21/Leetcode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/21CHANCHAL21/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/21CHANCHAL21/Leetcode/tree/master/0162-find-peak-element) |
 | [0633-sum-of-square-numbers](https://github.com/21CHANCHAL21/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/21CHANCHAL21/Leetcode/tree/master/0853-most-profit-assigning-work) |
