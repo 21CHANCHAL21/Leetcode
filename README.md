@@ -63,6 +63,7 @@
 | [1217-relative-sort-array](https://github.com/21CHANCHAL21/Leetcode/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/21CHANCHAL21/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/21CHANCHAL21/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/21CHANCHAL21/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/21CHANCHAL21/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/21CHANCHAL21/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/21CHANCHAL21/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -102,6 +103,7 @@
 | [0523-continuous-subarray-sum](https://github.com/21CHANCHAL21/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/21CHANCHAL21/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/21CHANCHAL21/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/21CHANCHAL21/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 # Math
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/21CHANCHAL21/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/21CHANCHAL21/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/21CHANCHAL21/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/21CHANCHAL21/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Queue
 |  |
