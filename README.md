@@ -180,3 +180,10 @@
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/21CHANCHAL21/Leetcode/tree/master/1916-find-center-of-star-graph) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0725-split-linked-list-in-parts](https://github.com/21CHANCHAL21/Leetcode/tree/master/0725-split-linked-list-in-parts) |
+<!---LeetCode Topics End-->
