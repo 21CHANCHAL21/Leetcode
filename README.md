@@ -186,4 +186,17 @@
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/21CHANCHAL21/Leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [2411-spiral-matrix-iv](https://github.com/21CHANCHAL21/Leetcode/tree/master/2411-spiral-matrix-iv) |
+## Array
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/21CHANCHAL21/Leetcode/tree/master/2411-spiral-matrix-iv) |
+## Matrix
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/21CHANCHAL21/Leetcode/tree/master/2411-spiral-matrix-iv) |
+## Simulation
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/21CHANCHAL21/Leetcode/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
