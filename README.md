@@ -186,12 +186,14 @@
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/21CHANCHAL21/Leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0860-design-circular-queue](https://github.com/21CHANCHAL21/Leetcode/tree/master/0860-design-circular-queue) |
 | [2411-spiral-matrix-iv](https://github.com/21CHANCHAL21/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Array
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/21CHANCHAL21/Leetcode/tree/master/0179-largest-number) |
 | [0731-my-calendar-ii](https://github.com/21CHANCHAL21/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0860-design-circular-queue](https://github.com/21CHANCHAL21/Leetcode/tree/master/0860-design-circular-queue) |
 | [1435-xor-queries-of-a-subarray](https://github.com/21CHANCHAL21/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/21CHANCHAL21/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2411-spiral-matrix-iv](https://github.com/21CHANCHAL21/Leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -282,6 +284,7 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/21CHANCHAL21/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0860-design-circular-queue](https://github.com/21CHANCHAL21/Leetcode/tree/master/0860-design-circular-queue) |
 ## Segment Tree
 |  |
 | ------- |
@@ -290,4 +293,8 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/21CHANCHAL21/Leetcode/tree/master/0731-my-calendar-ii) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/21CHANCHAL21/Leetcode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
