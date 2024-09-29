@@ -191,6 +191,7 @@
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/21CHANCHAL21/Leetcode/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/21CHANCHAL21/Leetcode/tree/master/0179-largest-number) |
 | [0731-my-calendar-ii](https://github.com/21CHANCHAL21/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0860-design-circular-queue](https://github.com/21CHANCHAL21/Leetcode/tree/master/0860-design-circular-queue) |
@@ -297,4 +298,8 @@
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/21CHANCHAL21/Leetcode/tree/master/0860-design-circular-queue) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/21CHANCHAL21/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
