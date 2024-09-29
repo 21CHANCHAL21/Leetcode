@@ -4,27 +4,22 @@ class Solution {
         
         if (num == 0) return ans;
         
-        // Initialize the first row
         List<Integer> firstRow = new ArrayList<>();
         firstRow.add(1);
         ans.add(firstRow);
         
         for (int i = 1; i < num; i++) {
-            List<Integer> prevRow = ans.get(i - 1); // Get the previous row
+            List<Integer> prevRow = ans.get(i - 1);
             List<Integer> currentRow = new ArrayList<>();
             
-            // First element is always 1
-            currentRow.add(1);
-            
-            // Fill the middle elements
-            for (int j = 1; j < i; j++) {
+            for (int j = 0; j <= i; j++) {
+                if(j == 0 || j == i){
+                    currentRow.add(1);
+                    continue;
+                }
                 currentRow.add(prevRow.get(j - 1) + prevRow.get(j));
             }
-            
-            // Last element is always 1
-            currentRow.add(1);
-            
-            // Add the current row to the answer
+            // currentRow.add(1);
             ans.add(currentRow);
         }
         
