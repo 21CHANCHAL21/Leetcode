@@ -193,6 +193,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/21CHANCHAL21/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/21CHANCHAL21/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/21CHANCHAL21/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/21CHANCHAL21/Leetcode/tree/master/0179-largest-number) |
 | [0731-my-calendar-ii](https://github.com/21CHANCHAL21/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0860-design-circular-queue](https://github.com/21CHANCHAL21/Leetcode/tree/master/0860-design-circular-queue) |
@@ -304,4 +305,5 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/21CHANCHAL21/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/21CHANCHAL21/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/21CHANCHAL21/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
