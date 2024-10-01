@@ -230,6 +230,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/21CHANCHAL21/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0179-largest-number](https://github.com/21CHANCHAL21/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/21CHANCHAL21/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/21CHANCHAL21/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -308,6 +309,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/21CHANCHAL21/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/21CHANCHAL21/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/21CHANCHAL21/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/21CHANCHAL21/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -315,4 +317,8 @@
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/21CHANCHAL21/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/21CHANCHAL21/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
