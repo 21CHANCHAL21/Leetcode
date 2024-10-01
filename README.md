@@ -191,6 +191,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/21CHANCHAL21/Leetcode/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/21CHANCHAL21/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/21CHANCHAL21/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/21CHANCHAL21/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -321,4 +322,5 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/21CHANCHAL21/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/21CHANCHAL21/Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
