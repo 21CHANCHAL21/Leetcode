@@ -209,6 +209,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/21CHANCHAL21/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/21CHANCHAL21/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/21CHANCHAL21/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/21CHANCHAL21/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -274,6 +275,7 @@
 | [0179-largest-number](https://github.com/21CHANCHAL21/Leetcode/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/21CHANCHAL21/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/21CHANCHAL21/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/21CHANCHAL21/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -354,4 +356,5 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/21CHANCHAL21/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/21CHANCHAL21/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
