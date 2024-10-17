@@ -276,6 +276,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/21CHANCHAL21/Leetcode/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/21CHANCHAL21/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/21CHANCHAL21/Leetcode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/21CHANCHAL21/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/21CHANCHAL21/Leetcode/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/21CHANCHAL21/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -363,4 +364,8 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/21CHANCHAL21/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/21CHANCHAL21/Leetcode/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/21CHANCHAL21/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Math
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/21CHANCHAL21/Leetcode/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
