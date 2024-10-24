@@ -309,6 +309,7 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/21CHANCHAL21/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0988-flip-equivalent-binary-trees](https://github.com/21CHANCHAL21/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 ## Trie
 |  |
 | ------- |
@@ -387,4 +388,12 @@
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/21CHANCHAL21/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Tree
+|  |
+| ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/21CHANCHAL21/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/21CHANCHAL21/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 <!---LeetCode Topics End-->
