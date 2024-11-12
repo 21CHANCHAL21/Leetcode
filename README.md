@@ -208,6 +208,7 @@
 | [1923-sentence-similarity-iii](https://github.com/21CHANCHAL21/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/21CHANCHAL21/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/21CHANCHAL21/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/21CHANCHAL21/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/21CHANCHAL21/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/21CHANCHAL21/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/21CHANCHAL21/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -304,6 +305,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/21CHANCHAL21/Leetcode/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/21CHANCHAL21/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/21CHANCHAL21/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/21CHANCHAL21/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3291-find-if-array-can-be-sorted](https://github.com/21CHANCHAL21/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Rolling Hash
@@ -333,6 +335,7 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/21CHANCHAL21/Leetcode/tree/master/0731-my-calendar-ii) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/21CHANCHAL21/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Design
 |  |
 | ------- |
