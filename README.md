@@ -209,6 +209,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/21CHANCHAL21/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1923-sentence-similarity-iii](https://github.com/21CHANCHAL21/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/21CHANCHAL21/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [2089-maximum-matrix-sum](https://github.com/21CHANCHAL21/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/21CHANCHAL21/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/21CHANCHAL21/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/21CHANCHAL21/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -225,6 +226,7 @@
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/21CHANCHAL21/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2089-maximum-matrix-sum](https://github.com/21CHANCHAL21/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/21CHANCHAL21/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/21CHANCHAL21/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
@@ -306,6 +308,7 @@
 | [0670-maximum-swap](https://github.com/21CHANCHAL21/Leetcode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/21CHANCHAL21/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/21CHANCHAL21/Leetcode/tree/master/1304-longest-happy-string) |
+| [2089-maximum-matrix-sum](https://github.com/21CHANCHAL21/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/21CHANCHAL21/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/21CHANCHAL21/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
