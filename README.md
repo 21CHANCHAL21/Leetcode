@@ -199,6 +199,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/21CHANCHAL21/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/21CHANCHAL21/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0731-my-calendar-ii](https://github.com/21CHANCHAL21/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0787-sliding-puzzle](https://github.com/21CHANCHAL21/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0860-design-circular-queue](https://github.com/21CHANCHAL21/Leetcode/tree/master/0860-design-circular-queue) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/21CHANCHAL21/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/21CHANCHAL21/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -225,6 +226,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/21CHANCHAL21/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/21CHANCHAL21/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2089-maximum-matrix-sum](https://github.com/21CHANCHAL21/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/21CHANCHAL21/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -437,4 +439,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/21CHANCHAL21/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0787-sliding-puzzle](https://github.com/21CHANCHAL21/Leetcode/tree/master/0787-sliding-puzzle) |
 <!---LeetCode Topics End-->
