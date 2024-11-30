@@ -191,6 +191,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/21CHANCHAL21/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/21CHANCHAL21/Leetcode/tree/master/0027-remove-element) |
 | [0073-set-matrix-zeroes](https://github.com/21CHANCHAL21/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/21CHANCHAL21/Leetcode/tree/master/0118-pascals-triangle) |
@@ -352,6 +353,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/21CHANCHAL21/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0731-my-calendar-ii](https://github.com/21CHANCHAL21/Leetcode/tree/master/0731-my-calendar-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/21CHANCHAL21/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Design
@@ -438,6 +440,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/21CHANCHAL21/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/21CHANCHAL21/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
