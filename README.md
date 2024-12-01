@@ -205,6 +205,7 @@
 | [0860-design-circular-queue](https://github.com/21CHANCHAL21/Leetcode/tree/master/0860-design-circular-queue) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/21CHANCHAL21/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/21CHANCHAL21/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/21CHANCHAL21/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/21CHANCHAL21/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/21CHANCHAL21/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1755-defuse-the-bomb](https://github.com/21CHANCHAL21/Leetcode/tree/master/1755-defuse-the-bomb) |
@@ -262,6 +263,7 @@
 | [0567-permutation-in-string](https://github.com/21CHANCHAL21/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/21CHANCHAL21/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/21CHANCHAL21/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/21CHANCHAL21/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/21CHANCHAL21/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/21CHANCHAL21/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/21CHANCHAL21/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -324,6 +326,7 @@
 | [0179-largest-number](https://github.com/21CHANCHAL21/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/21CHANCHAL21/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/21CHANCHAL21/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/21CHANCHAL21/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/21CHANCHAL21/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/21CHANCHAL21/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3291-find-if-array-can-be-sorted](https://github.com/21CHANCHAL21/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -355,6 +358,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/21CHANCHAL21/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0731-my-calendar-ii](https://github.com/21CHANCHAL21/Leetcode/tree/master/0731-my-calendar-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/21CHANCHAL21/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/21CHANCHAL21/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Design
 |  |
@@ -394,6 +398,7 @@
 | [0005-longest-palindromic-substring](https://github.com/21CHANCHAL21/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/21CHANCHAL21/Leetcode/tree/master/0027-remove-element) |
 | [0567-permutation-in-string](https://github.com/21CHANCHAL21/Leetcode/tree/master/0567-permutation-in-string) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/21CHANCHAL21/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1923-sentence-similarity-iii](https://github.com/21CHANCHAL21/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/21CHANCHAL21/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/21CHANCHAL21/Leetcode/tree/master/3195-separate-black-and-white-balls) |
