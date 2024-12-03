@@ -216,6 +216,7 @@
 | [2089-maximum-matrix-sum](https://github.com/21CHANCHAL21/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/21CHANCHAL21/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/21CHANCHAL21/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2232-adding-spaces-to-a-string](https://github.com/21CHANCHAL21/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/21CHANCHAL21/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/21CHANCHAL21/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/21CHANCHAL21/Leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -240,6 +241,7 @@
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/21CHANCHAL21/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2232-adding-spaces-to-a-string](https://github.com/21CHANCHAL21/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/21CHANCHAL21/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/21CHANCHAL21/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/21CHANCHAL21/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -287,6 +289,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/21CHANCHAL21/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/21CHANCHAL21/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1923-sentence-similarity-iii](https://github.com/21CHANCHAL21/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [2232-adding-spaces-to-a-string](https://github.com/21CHANCHAL21/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/21CHANCHAL21/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/21CHANCHAL21/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/21CHANCHAL21/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -400,6 +403,7 @@
 | [0567-permutation-in-string](https://github.com/21CHANCHAL21/Leetcode/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/21CHANCHAL21/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1923-sentence-similarity-iii](https://github.com/21CHANCHAL21/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [2232-adding-spaces-to-a-string](https://github.com/21CHANCHAL21/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/21CHANCHAL21/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/21CHANCHAL21/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
