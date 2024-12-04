@@ -277,6 +277,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/21CHANCHAL21/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/21CHANCHAL21/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/21CHANCHAL21/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/21CHANCHAL21/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0567-permutation-in-string](https://github.com/21CHANCHAL21/Leetcode/tree/master/0567-permutation-in-string) |
@@ -340,6 +341,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/21CHANCHAL21/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/21CHANCHAL21/Leetcode/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
@@ -400,6 +402,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/21CHANCHAL21/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/21CHANCHAL21/Leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/21CHANCHAL21/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0567-permutation-in-string](https://github.com/21CHANCHAL21/Leetcode/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/21CHANCHAL21/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1923-sentence-similarity-iii](https://github.com/21CHANCHAL21/Leetcode/tree/master/1923-sentence-similarity-iii) |
